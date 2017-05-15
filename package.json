@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.0.1",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "postcss-calc": "^6.0.0",
+    "postcss-css-variables": "^0.7.0",
+    "postcss-mixins": "^6.0.0",
+    "postcss-reporter": "^3.0.0",
+    "stylelint": "^7.10.1"
+  }
+}

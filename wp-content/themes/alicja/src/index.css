@@ -1,0 +1,5 @@
+
+
+body {
+  @mixin transition color, 2s, ease-in;
+}
